@@ -6,7 +6,6 @@ import com.alexbezhan.instagram.data.SearchRepository
 import com.alexbezhan.instagram.data.common.map
 import com.alexbezhan.instagram.data.firebase.common.FirebaseLiveData
 import com.alexbezhan.instagram.data.firebase.common.database
-import com.alexbezhan.instagram.models.SearchPost
 import com.google.android.gms.tasks.Task
 import com.google.firebase.database.DataSnapshot
 

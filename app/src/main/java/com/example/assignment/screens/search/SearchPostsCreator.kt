@@ -6,7 +6,6 @@ import com.alexbezhan.instagram.common.BaseEventListener
 import com.alexbezhan.instagram.common.Event
 import com.alexbezhan.instagram.common.EventBus
 import com.alexbezhan.instagram.data.SearchRepository
-import com.alexbezhan.instagram.models.SearchPost
 
 class SearchPostsCreator(searchRepo: SearchRepository) : BaseEventListener() {
     init {

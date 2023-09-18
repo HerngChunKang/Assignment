@@ -12,12 +12,12 @@
         android:title=""/>
 
     <item
-        android:id="@+id/nav_item_likes"
+        android:id="@+id/nav_item_moment"
         android:icon="@drawable/ic_moment_icon"
         android:title="" />
 
     <item
-        android:id="@+id/nav_item_profile"
+        android:id="@+id/nav_item_turtle"
         android:icon="@drawable/ic_turtle_icon"
         android:title="" />
 
