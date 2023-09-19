@@ -13,7 +13,7 @@
         android:layout_height="40dp"
         android:paddingStart="10dp"
         android:paddingEnd="10dp"
-        android:src="@drawable/ic_likes_white"/>
+        android:src="@drawable/ic_heart_icon"/>
 
     <TextView
         android:id="@+id/likes_count_text"
@@ -29,7 +29,7 @@
         android:layout_height="40dp"
         android:paddingStart="8dp"
         android:paddingEnd="8dp"
-        android:src="@drawable/ic_profile_white"/>
+        android:src="@drawable/ic_user_icon"/>
 
     <TextView
         android:id="@+id/follows_count_text"
@@ -38,14 +38,6 @@
         tools:text="5"
         android:textColor="@color/white"
         android:textSize="21sp"/>
-
-    <ImageView
-        android:id="@+id/comments_image"
-        android:layout_width="40dp"
-        android:layout_height="40dp"
-        android:paddingStart="10dp"
-        android:paddingEnd="10dp"
-        android:src="@drawable/ic_comments_white"/>
 
     <TextView
         android:id="@+id/comments_count_text"
