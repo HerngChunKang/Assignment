@@ -50,4 +50,16 @@ dependencies {
     implementation ("com.nhaarman.supertooltips:library:3.0.0")
     implementation ("net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.1.0")
     implementation ("com.github.bumptech.glide:glide:4.12.0")
+
+    implementation ("de.hdodenhof:circleimageview:2.2.0")
+    implementation ("com.nhaarman.supertooltips:library:3.0.0")
+    implementation ("com.google.firebase:firebase-core:18.0.0")
+    implementation ("com.google.firebase:firebase-auth:20.0.1")
+    implementation ("com.google.firebase:firebase-database:19.6.0")
+    implementation ("com.google.firebase:firebase-storage:19.2.1")
+
+    implementation ("com.otaliastudios:cameraview:2.7.2")
+    implementation ("org.jetbrains.kotlinx:kotlinx-parcelize:1.2.7")
+    implementation ("androidx.datastore:datastore-preferences:1.0.0")
+
 }
