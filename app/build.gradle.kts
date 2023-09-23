@@ -58,8 +58,4 @@ dependencies {
     implementation ("com.google.firebase:firebase-database:19.6.0")
     implementation ("com.google.firebase:firebase-storage:19.2.1")
 
-    implementation ("com.otaliastudios:cameraview:2.7.2")
-    implementation ("org.jetbrains.kotlinx:kotlinx-parcelize:1.2.7")
-    implementation ("androidx.datastore:datastore-preferences:1.0.0")
-
 }

@@ -5,6 +5,7 @@
     <string name="enter_a_caption_here">Write a caption...</string>
     <string name="post">Post</string>
     <string name="user_information">User Information</string>
+    <string name="username_is_clicked">Username is clicked</string>
 
     <plurals name="likes_count">
         <item quantity="one">%d like</item>
